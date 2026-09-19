@@ -1,0 +1,6 @@
+{
+  "name": "Ella Textbuch & Flashcards",
+  "description": "Flashcard-Trainer zum Einprägen und Üben der Dialoge und Einsätze der Rolle Ella im Musical.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
